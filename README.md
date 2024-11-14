@@ -20,19 +20,19 @@ I enjoy studying mathematics and am open to discussions!
 # 📂 Repository Contents
 
 1. **Blog Related:**
-   - 📝 [Old Blog](#) (old)
-   - 🚫 [foreverlasting1202.github.io](#) (discontinued)
-   - 💬 [Blogtalk](#) (blog comments)
+   - 📝 [old](https://github.com/foreverlasting1202/old) (old blog)
+   - 🚫 [foreverlasting1202.github.io](https://github.com/foreverlasting1202/foreverlasting1202.github.io) (discontinued)
+   - 💬 [blogtalk](https://github.com/foreverlasting1202/blogtalk) (blog comments)
 
 2. **Algorithm Competitions:**
-   - 🔍 [OI-wiki](#)
+   - 🔍 [OI-wiki](https://github.com/foreverlasting1202/OI-wiki)
 
 3. **Course Work:**
-   - 📷 [BIT-Course-CV-HW-1-23-Fall](#) (Image Blending)
-   - 📸 [BIT-Course-CV-HW-2-23-Fall](#) (SIFT)
-   - 🎥 [BIT-Course-CV-HW-3-23-Fall](#) (KCF Tracking)
-   - 🏗️ [BIT-Course-CV-Term-Project-23-Fall](#) (3D Reconstruction with NeRF)
-   - 📊 [BIT-Course-DL-Lab-1-24-Spring](#) (CIFAR10)
+   - 📷 [BIT-Course-CV-HW-1-23-Fall](https://github.com/foreverlasting1202/BIT-Course-CV-HW-1-23-Fall) (Image Blending)
+   - 📸 [BIT-Course-CV-HW-2-23-Fall](https://github.com/foreverlasting1202/BIT-Course-CV-HW-2-23-Fall) (SIFT)
+   - 🎥 [BIT-Course-CV-HW-3-23-Fall](https://github.com/foreverlasting1202/BIT-Course-CV-HW-3-23-Fall) (KCF Tracking)
+   - 🏗️ [BIT-Course-CV-Term-Project-23-Fall](https://github.com/foreverlasting1202/BIT-Course-CV-Term-Project-23-Fall) (3D Reconstruction with NeRF)
+   - 📊 [BIT-Course-DL-Lab-1-24-Spring](https://github.com/foreverlasting1202/BIT-Course-DL-Lab-1-24-Spring) (CIFAR10)
 
 <!--
 **foreverlasting1202/foreverlasting1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
