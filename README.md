@@ -24,7 +24,7 @@ I enjoy studying mathematics and am open to discussions!
    - 🚫 [foreverlasting1202.github.io](https://github.com/foreverlasting1202/foreverlasting1202.github.io) (discontinued)
    - 💬 [blogtalk](https://github.com/foreverlasting1202/blogtalk) (blog comments)
 
-2. **Algorithm Competitions:**
+2. **Competition Programming:**
    - 🔍 [OI-wiki](https://github.com/foreverlasting1202/OI-wiki)
 
 3. **Course Work:**
