@@ -15,6 +15,8 @@ Feel free to reach out at Foreverlasting1202@outlook.com.
 
 I enjoy studying mathematics and am open to discussions!
 
+[![](https://cfrating.baoshuo.dev/rating?username=foreverlasting)](https://codeforces.com/profile/foreverlasting)
+
 # 📂 Repository Contents
 
 1. **Blog Related:**
