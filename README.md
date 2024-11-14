@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 📚 Research
 
 I'm focused on researching AI theory and aim to bring its applications into real-world scenarios.
