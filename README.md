@@ -8,8 +8,8 @@ Feel free to reach out at Foreverlasting1202@outlook.com.
 
 # 🎓 Education
 
-- Pursuing a Bachelor’s degree at Beijing Institute of Technology, expected to graduate in 2025.
-- Planning to pursue a PhD at Tsinghua University's College of AI, starting in 2025.
+- Bachelor: School of Computer Science, Beijing Institute of Technology, 2021 – Present
+- PhD: College of AI, Tsinghua University, 2025 – 
 
 # 📖 Interests
 
